@@ -1,0 +1,142 @@
+.container{
+    background-color: black;
+    height: 50px;
+    color: grey;
+}
+.navi{
+    display: flex;
+    justify-content: center;
+    gap: 20px;
+    padding-top: 10px;
+}
+*{
+    padding: 0;
+    margin: 0;
+}
+body{
+    background-color: grey;
+}
+.container2{
+    display: flex;
+    justify-content: center;
+
+}
+.imaz{
+    display: flex;
+    justify-content: center;
+    height: 500px;
+
+}
+.col-log-6{
+    padding-top: 20px;
+    border: 1px ;
+    border-radius: 10px;
+    background-color: grey;
+}
+.heading{
+    display: flex;
+    justify-content: center;
+}
+.lead{
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    width: 500px;
+    padding-top: 20px;
+    padding-left: 100px;
+}
+.modal-header{
+    display: flex;
+    justify-content: center;
+}
+.modal-body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.form-floating{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
+.signup{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 2px;
+    margin-left: 200px;
+
+}
+.modal{
+    height: 200px;
+    width: auto;
+    padding: 10px;
+}
+.modal-dialog{
+    margin: 10px;
+    background-color: grey;
+}
+.modal-content{
+    margin: 1px;
+}
+.text-body-secondary{
+    padding-left: 100px;
+}
+.fs-5{
+    display: flex;
+    justify-content: center;
+    padding-top: 0;
+    margin: 0;
+    
+}
+footer {
+    text-align: center;
+    padding: 50px;
+    background-color: black;
+    color: grey;
+  }
+.form-control{
+    border: 1px solid black;
+    padding: 5px;
+}
+.main{
+    padding-top:100px ;
+    height: 300px;
+    width: 50%;
+    border: 1px solid black;
+    background-color: grey;
+    border-radius: 20px;
+}
+.lab{
+    display: flex;
+    justify-content: center;
+}
+.form{
+    background-color: grey;
+    border: 1px solid black;
+    color: black;
+    border-radius: 10px;
+    padding: 10px;
+}
+.inp{
+    display: flex;
+    justify-content: center;
+}
+.button{
+    gap: 10px;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+}
+.sign{
+    padding: 10px;
+    border-radius: 10px;
+    color: grey;
+}
+.outer{
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
